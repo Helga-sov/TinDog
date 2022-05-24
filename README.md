@@ -11,6 +11,6 @@ Start up landing page for a fictional application named TinDog. TinDog allows th
 ![tindog-4](https://user-images.githubusercontent.com/60555164/170003612-64eeeb63-9031-4ac6-ba40-748979f17bb3.PNG)
 
 ## Built With
-[x] HTML5
-[x] CSS3
-[x] Bootstrap
+- [x] HTML5
+- [x] CSS3
+- [x] Bootstrap
